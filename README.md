@@ -1,4 +1,4 @@
-# 💪 Fitness & Diet AI Chatbot
+# Diet and Excercise Recommdation Chatbot
 
 A personalized fitness and nutrition recommendation system powered by AI and data science. This web-based application provides users with customized exercise routines and dietary plans based on their biometric data, fitness goals, and preferences using advanced metabolic calculations and intelligent data filtering.
 
@@ -140,8 +140,6 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 
 ## 👤 Author
 
-**Muhammad Humza Majeed**
+**Muhammad Moeed Ikram**
 
----
 
-⭐ If you found this project helpful, please consider giving it a star!
