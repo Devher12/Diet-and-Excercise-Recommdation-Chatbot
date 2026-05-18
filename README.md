@@ -130,7 +130,7 @@ fitness_diet_chatbot/
 - CSV Data Handling
 - Mathematical Modeling
 
-## 📝 License
+##  License
 
 This project is open source and available under the MIT License.
 
